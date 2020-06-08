@@ -1,4 +1,4 @@
-HELP.md
+springboot-shiro-cluster/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
@@ -32,4 +32,4 @@ build/
 
 /.mvn/
 .DS_Store
-/.gitignore
+*/.DS_Store
